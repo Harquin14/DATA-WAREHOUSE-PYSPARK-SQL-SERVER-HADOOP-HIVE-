@@ -1,7 +1,6 @@
 # DATA-WAREHOUSE-PYSPARK-SQL-SERVER-HADOOP-HIVE
 
 
-![Uploading DDDDD.drawio.png…]()
 
 
 
@@ -10,6 +9,7 @@
 
 
 
+<img width="1101" height="761" alt="DDDDD drawio" src="https://github.com/user-attachments/assets/1b5c3d2c-3e6d-440d-954e-2c986c35d3da" />
 
 
 

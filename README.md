@@ -13,6 +13,7 @@ Starting from SQL Server as the data source, I built a structured ETL pipeline t
 
 The entire architecture was deployed on a Hadoop ecosystem, leveraging Hive for data warehousing operations and SQL-like querying across distributed storage.
 
+
 🔹 Key Features
 
 ✔ Implementation of the Medallion Architecture (Bronze, Silver, and Gold Layers)
@@ -30,9 +31,13 @@ The entire architecture was deployed on a Hadoop ecosystem, leveraging Hive for 
 
          🚀 Project Requirements
 
+
+
 1️⃣ Data Engineering: Building the Data Warehouse
 
+
 Objective:
+
 
 Design and implement a scalable data warehouse using PySpark and the Hadoop ecosystem to consolidate data from multiple sources and enable high-performance analytics.
 
@@ -67,18 +72,20 @@ Insights Delivered:
 📊 Sales Trends & Forecasting – Highlighted seasonal patterns to guide business strategy
 
 
+
 🧰 Tech Stack & Tools
 
 
-🛠️ PySpark – ETL and transformation workflows
 
-🛠️ SQL Server – Source system for operational data
+PySpark – ETL and transformation workflows
 
-🛠️ Hadoop & Hive – Distributed storage and query layer
+SQL Server – Source system for operational data
 
-🛠️ Parquet – Optimized columnar file storage
+Hadoop & Hive – Distributed storage and query layer
 
-🛠️ Tableau / Power BI (Optional) – Visualization and reporting
+Parquet – Optimized columnar file storage
 
-🛠️ GitHub – Version control and project documentation
+Tableau / Power BI (Optional) – Visualization and reporting
+
+GitHub – Version control and project documentation
 

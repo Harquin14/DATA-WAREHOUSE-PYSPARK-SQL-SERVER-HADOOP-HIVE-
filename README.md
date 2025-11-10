@@ -1,6 +1,21 @@
 # DATA-WAREHOUSE-PYSPARK-SQL-SERVER-HADOOP-HIVE
 
 
+![Uploading DDDDD.drawio.png…]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 🏗️ Modern Data Warehouse & Analytics Project
 
  Building a Scalable Data Warehouse using PySpark and the Medallion Architecture (Bronze, Silver & Gold Layers)

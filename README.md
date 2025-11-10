@@ -16,11 +16,17 @@ The entire architecture was deployed on a Hadoop ecosystem, leveraging Hive for 
 🔹 Key Features
 
 ✔ Implementation of the Medallion Architecture (Bronze, Silver, and Gold Layers)
+
 ✔ PySpark-based ETL Pipelines for data extraction, transformation, and loading
+
 ✔ Data stored in Parquet format across all layers for optimized performance
+
 ✔ Integration with Hadoop and Hive for distributed data management and querying
+
 ✔ Star Schema Modeling (Fact & Dimension tables) for efficient analytical queries
+
 ✔ End-to-end data quality processing to standardize and validate datasets
+
 
 🚀 Project Requirements
 
@@ -31,11 +37,17 @@ Design and implement a scalable data warehouse using PySpark and the Hadoop ecos
 
 Key Specifications:
 ✔ Data Source: SQL Server (structured sales and CRM data)
+
 ✔ Bronze Layer: Ingest raw data from SQL Server and store in Parquet format
+
 ✔ Silver Layer: Apply data transformation and cleansing using PySpark; save as Parquet
+
 ✔ Gold Layer: Implement business logic and create aggregated datasets in Parquet
+
 ✔ Hive Integration: Enable SQL-based querying and metadata management
+
 ✔ Documentation: Include ER diagrams, schema definitions, and business logic flow
+
 
 
 2️⃣ Business Intelligence & Analytics: Data Analysis
@@ -45,8 +57,11 @@ Deliver actionable insights and business metrics through optimized querying and 
 
 Insights Delivered:
 📊 Customer Behavior Analysis – Identified key customer segments and purchasing trends
+
 📊 Product Performance Evaluation – Assessed profitability and sales performance
+
 📊 Sales Trends & Forecasting – Highlighted seasonal patterns to guide business strategy
+
 
 🧰 Tech Stack & Tools
 
@@ -54,7 +69,12 @@ Insights Delivered:
 🛠️ PySpark – ETL and transformation workflows
 
 🛠️ SQL Server – Source system for operational data
+
 🛠️ Hadoop & Hive – Distributed storage and query layer
+
 🛠️ Parquet – Optimized columnar file storage
+
 🛠️ Tableau / Power BI (Optional) – Visualization and reporting
+
 🛠️ GitHub – Version control and project documentation
+

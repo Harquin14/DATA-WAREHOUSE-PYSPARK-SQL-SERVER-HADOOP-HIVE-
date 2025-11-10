@@ -33,9 +33,11 @@ The entire architecture was deployed on a Hadoop ecosystem, leveraging Hive for 
 1️⃣ Data Engineering: Building the Data Warehouse
 
 Objective:
+
 Design and implement a scalable data warehouse using PySpark and the Hadoop ecosystem to consolidate data from multiple sources and enable high-performance analytics.
 
 Key Specifications:
+
 ✔ Data Source: SQL Server (structured sales and CRM data)
 
 ✔ Bronze Layer: Ingest raw data from SQL Server and store in Parquet format
@@ -53,9 +55,11 @@ Key Specifications:
 2️⃣ Business Intelligence & Analytics: Data Analysis
 
 Objective:
+
 Deliver actionable insights and business metrics through optimized querying and data modeling.
 
 Insights Delivered:
+
 📊 Customer Behavior Analysis – Identified key customer segments and purchasing trends
 
 📊 Product Performance Evaluation – Assessed profitability and sales performance

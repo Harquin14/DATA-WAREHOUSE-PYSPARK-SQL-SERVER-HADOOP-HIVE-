@@ -28,7 +28,7 @@ The entire architecture was deployed on a Hadoop ecosystem, leveraging Hive for 
 ✔ End-to-end data quality processing to standardize and validate datasets
 
 
-🚀 Project Requirements
+         🚀 Project Requirements
 
 1️⃣ Data Engineering: Building the Data Warehouse
 
@@ -38,7 +38,7 @@ Design and implement a scalable data warehouse using PySpark and the Hadoop ecos
 
 Key Specifications:
 
-✔ Data Source: SQL Server (structured sales and CRM data)
+✔ Data Source: SQL Server (structured ERP and CRM data)
 
 ✔ Bronze Layer: Ingest raw data from SQL Server and store in Parquet format
 

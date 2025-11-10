@@ -1,11 +1,11 @@
-# DATA-WAREHOUSE-PYSPARK-SQL-SERVER-HADOOP-HIVE-
+# DATA-WAREHOUSE-PYSPARK-SQL-SERVER-HADOOP-HIVE
 
 
 🏗️ Modern Data Warehouse & Analytics Project
 
-🚀 Building a Scalable Data Warehouse using PySpark and the Medallion Architecture (Bronze, Silver & Gold Layers)
+ Building a Scalable Data Warehouse using PySpark and the Medallion Architecture (Bronze, Silver & Gold Layers)
 
-📌 Project Overview
+ Project Overview
 
 This project demonstrates the end-to-end development of a modern data warehouse using PySpark, designed for analytical reporting and business intelligence.
 
@@ -23,6 +23,7 @@ The entire architecture was deployed on a Hadoop ecosystem, leveraging Hive for 
 ✔ End-to-end data quality processing to standardize and validate datasets
 
 🚀 Project Requirements
+
 1️⃣ Data Engineering: Building the Data Warehouse
 
 Objective:
@@ -36,6 +37,7 @@ Key Specifications:
 ✔ Hive Integration: Enable SQL-based querying and metadata management
 ✔ Documentation: Include ER diagrams, schema definitions, and business logic flow
 
+
 2️⃣ Business Intelligence & Analytics: Data Analysis
 
 Objective:
@@ -48,7 +50,9 @@ Insights Delivered:
 
 🧰 Tech Stack & Tools
 
+
 🛠️ PySpark – ETL and transformation workflows
+
 🛠️ SQL Server – Source system for operational data
 🛠️ Hadoop & Hive – Distributed storage and query layer
 🛠️ Parquet – Optimized columnar file storage

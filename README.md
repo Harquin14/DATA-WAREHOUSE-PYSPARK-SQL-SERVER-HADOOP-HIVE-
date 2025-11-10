@@ -16,6 +16,7 @@
 
 
 
+
 🏗️ Modern Data Warehouse & Analytics Project
 
  Building a Scalable Data Warehouse using PySpark and the Medallion Architecture (Bronze, Silver & Gold Layers)
@@ -51,7 +52,7 @@ The entire architecture was deployed on a Hadoop ecosystem, leveraging Hive for 
 1️⃣ Data Engineering: Building the Data Warehouse
 
 
-Objective:
+        Objective:
 
 
 Design and implement a scalable data warehouse using PySpark and the Hadoop ecosystem to consolidate data from multiple sources and enable high-performance analytics.
@@ -71,14 +72,18 @@ Key Specifications:
 ✔ Documentation: Include ER diagrams, schema definitions, and business logic flow
 
 
+  
 
 2️⃣ Business Intelligence & Analytics: Data Analysis
 
-Objective:
 
-Deliver actionable insights and business metrics through optimized querying and data modeling.
+        Objective:
 
-Insights Delivered:
+Deliver actionable insights and business metrics through optimized querying and data modeling. 
+
+
+
+ # Insights Delivered:
 
 📊 Customer Behavior Analysis – Identified key customer segments and purchasing trends
 
